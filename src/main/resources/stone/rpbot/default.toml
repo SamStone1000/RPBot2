@@ -1,0 +1,5 @@
+# Api Key used by the bot, uncomment and put the api key in the quotes
+# api_key = "put api key here"
+
+# The folder name that the derby database is stored in
+database_name = "RPStore"
