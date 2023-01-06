@@ -1,0 +1,15 @@
+A list of todos in no particular order
+
+Engine Features
+* TODO Slash Commands [%]
+* TODO Interactive Messages [%]
+* TODO
+
+Addons
+* TODO Ace Attorney Threads
+* TODO Soyface Overlay
+* TODO HL1 Vox
+* TODO Counters
+* TODO Daily Lyrics
+* TODO Statistics
+* TODO Role Saving
